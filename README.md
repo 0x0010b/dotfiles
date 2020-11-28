@@ -20,10 +20,10 @@
 
 ### todo files
 
-[x] i3-gaps
-[x] Alacritty
-[x] Zsh
-[x] Powerlevel10k
-[x] Colorls
-[ ] Ranger
+[x] i3-gaps  
+[x] Alacritty  
+[x] Zsh  
+[x] Powerlevel10k  
+[x] Colorls  
+[ ] Ranger  
 [ ] Dunst
